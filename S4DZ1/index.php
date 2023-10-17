@@ -117,8 +117,6 @@ $info = [
             <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?php echo $info[$i]['date']?><span
                 class="w3-tag w3-teal w3-round"></span></h6>
             <p><?php echo $info[$i]['description']?></p>
-            <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit
-              sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
             <hr>
           <?php endfor;?>
           </div>
